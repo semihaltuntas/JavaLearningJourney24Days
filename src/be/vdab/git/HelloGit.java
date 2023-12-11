@@ -3,6 +3,6 @@ package be.vdab.git;
 public class HelloGit {
     public static void main(String[] args) {
         System.out.println("Hello GİTT!");
-        System.out.println("bonjour git");
+        System.out.println("bonjour tout le monde !");
     }
 }
