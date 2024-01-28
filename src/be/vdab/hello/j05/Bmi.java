@@ -1,4 +1,4 @@
-package be.vdab.j05;
+package be.vdab.hello.j05;
 
 public class Bmi {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class Bmi {
         float lengte = 1.70F;
         float bmi;
 
-        bmi= gewicht /(lengte*lengte);
-        System.out.println("de bodyIndex is "+ bmi);
+        bmi = gewicht / (lengte * lengte);
+        System.out.println("de bodyIndex is " + bmi);
     }
 }
