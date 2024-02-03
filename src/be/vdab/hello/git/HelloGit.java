@@ -1,4 +1,4 @@
-package be.vdab.git;
+package be.vdab.hello.git;
 
 public class HelloGit {
     public static void main(String[] args) {
@@ -6,3 +6,4 @@ public class HelloGit {
         System.out.println("bonjour git");
     }
 }
+
